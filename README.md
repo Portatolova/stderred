@@ -1,3 +1,5 @@
+Forked from https://github.com/sickill/stderred
+
 # stderred
 
 stderr in red.
